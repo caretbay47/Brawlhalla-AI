@@ -1,0 +1,17 @@
+So I wasn't sure, but it turns out that template matching will more than likely be my best option for tracking the coords
+of the player and the enemy seperately. 
+
+TEMPLATE MATCHING
+
+So this is obviously going to be pretty computationally demanding with that said, the less "processing" that my computer
+has to do, the better. 
+
+Question: I am currently unsure if it is better to 'hard code' the coords for the different maps, and then use template matching to
+determine what map it is, or if i should use contour detection. (I think the hard code is probably better)
+
+In order to train an AI to play Brawlhalla, i'll need some training data. Now, determining what data the AI 'needs' inorder to play Brawlhalla
+is proving more complicated than I originally thought. It's hard to know and pin point exactly what the AI needs as most of this 'data'
+is stuff I dont even think about while playing, like how many recovery options I have left, because while in-game I just 'know' without really 
+thinking about it.
+
+
