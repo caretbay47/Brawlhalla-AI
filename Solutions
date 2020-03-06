@@ -3,15 +3,24 @@ of the player and the enemy seperately.
 
 TEMPLATE MATCHING
 
-So this is obviously going to be pretty computationally demanding with that said, the less "processing" that my computer
-has to do, the better. 
+So this is obviously going to be pretty computationally demanding, with that said the less "processing" that my computer
+has to do, the better. I am fortunate enough to have access to a cluster computer that I built for my school, and I will run this AI in parallel
+if I must. However, I am going to do my best to make this code so that it can be run on a typical gaming pc but it is not going to be easy.
+
 
 Question: I am currently unsure if it is better to 'hard code' the coords for the different maps, and then use template matching to
-determine what map it is, or if i should use contour detection. (I think the hard code is probably better)
+determine what map it is, or if i should use contour detection. 
+(I think that "hard code" is probably better, especially for performance)
 
 In order to train an AI to play Brawlhalla, i'll need some training data. Now, determining what data the AI 'needs' inorder to play Brawlhalla
 is proving more complicated than I originally thought. It's hard to know and pin point exactly what the AI needs as most of this 'data'
 is stuff I dont even think about while playing, like how many recovery options I have left, because while in-game I just 'know' without really 
-thinking about it.
+thinking about it. Also, another example of this, is how what we perceive as time, the AI would see as "number of frames to wait before text attack"
+for this problem, I am unsure if I give the ai the frame data, or I allow it to learn the frame data on its own.
 
+One of the biggest problems I am being faced with right now, is how the hell im going to make the AI able to tell what weapon is being held
+by not only itself but also by the enemy. In addition, the legends that are being used by the enemy, as this will allow the AI to keep track
+of what sigs to look for.
+
+EXTRA: I want the AI to recognize playstyles and patterns, and then be able to use this to update its own fight code to best counter the enemy.
 
