@@ -1,0 +1,24 @@
+Hello, My name is Adrian. 
+I was in highschool when i decided to take on this project. I have developed some code, (dont get your hopes up)
+Most of what i have developed was just me messing around with different methods to creating a dataset that could be used to train an AI
+          I personally only have about 2700 hours of brawlhalla gameplay, i would need 10s of thousands of hours of gameplay, compiled into a dataset that could be used to train an AI. and the data would have to be very specific.
+          You know when someone in a game says theyre "inside your head" well, youd have to have enough data, for an AI to teach itself to do that.
+                  Method 1) you use footage and data from people who are already really good at the game, and then compile it into a dataset that could train the AI
+                              Problem is chances are it will reach the limit of what the combination of those players skills would be (and the goal is to hit the limitations of the game itself)
+                  Method 2)You gather data from the chosen bots, and fix it so that it doesnt base its playstyle after "ive gotta hit this guy as many times as possible before i di........ead"
+                              problem is that the developers of brawlhalla put this flaw into the bots likely on purpose, inorder to make sure it isnt actually a "perfect player"
+                              those limitations make fixing a chosen bot a lot more work than its worth (to me) 
+                                also, still dont know what the training data would need to include inorder for the AI to make use of it
+                                  I think of my own brain in this regard, and yes, i dont know enough about how my own brain plays and understands brawlhalla to duplicate it in a computer.
+                  Method 3) youve somehow got a copy of the original source code for brawlhalla, and you can make an AI for this game in the same methods the developers used. Take a chosen bot, adjust the AI for the results you want (perfect chosen bot that doesnt kill itself and fall for dumb stuff)
+                              problem is that I dont have a copy of the source code. and even if you could get a copy, it would have to be in a programming language that i understand and can manipulate to my needs
+At the time, I thought it would be easier than it actually is. I bit off way more than i could chew.
+  And to anyone who has emailed me about this project. I really appriciate the interest, and i challenge you to take up the task. And all that i ask is that you dont ruin the game.
+I am no longer working on this project at this time.
+Creating an AI for brawlhalla would require, or at least i think (Im self taught by a highschool version of myself)
+  As far as i can tell, creating an AI to play brawlhalla at a usable capacity would take a lot of training data, that i am too lazy to obtain, nor do i have the knowledge to obtain
+    We're talking 10s of thousands of hours of gameplay, broken down into small data (small enough for a typicall gaming computer to run and process.)
+    after the learning process, depending on how "good" you want to AI to be, you would need to make the AI capable of adapting due to game updates, bug fixes, patches, anticheat software, ect
+
+NOTE: even though i am no longer working on this project, ill still be around incase anyone has breakthroughs. I am still greatly interested.   
+ 
